@@ -4,11 +4,7 @@
 
 <h3>Adding Image<h3>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
-<!-- $ git init -->
-<!-- Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/ -->
+<img src="https://octodex.github.com/images/yaktocat.png" atl="Image of Yaktocat">
 
   
   
